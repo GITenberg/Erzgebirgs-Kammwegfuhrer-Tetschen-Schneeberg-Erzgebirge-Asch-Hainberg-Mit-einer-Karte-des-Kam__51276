@@ -1,0 +1,27 @@
+_repo: Erzgebirgs-Kammwegfuhrer-Tetschen-Schneeberg-Erzgebirge-Asch-Hainberg-Mit-einer-Karte-des-Kam__51276
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brechensbauer, Josef
+    gutenberg_agent_id: '46336'
+    url: http://www.gutenberg.org/2009/agents/46336
+  - agent_name: Prasse, E. A.
+    gutenberg_agent_id: '46337'
+    url: http://www.gutenberg.org/2009/agents/46337
+description: ''
+gutenberg_issued: '2016-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51276'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Erzgebirge (Czech Republic and Germany) -- Guidebooks'
+- !lcc 'DD'
+- GITenberg
+title: "Erzgebirgs-Kammwegführer\r\nTetschen (Schneeberg) - Erzgebirge - Asch (Hainberg).\
+  \ Mit einer Karte des Kammweges"
+url: http://www.gutenberg.org/ebooks/51276
